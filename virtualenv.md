@@ -95,6 +95,8 @@ unset DATABASE_URI
 conda deactivate
 conda activate my_proj_env
 echo $DATABASE_URI
+```
+
 8. Place the environment.yaml in the project folder.
 
 # Auto activate the virtual environment if exitsts.
