@@ -5,6 +5,9 @@ https://docs.python-guide.org/dev/virtualenvs/
 pip-compile-multi
 https://pypi.org/project/pip-compile-multi/
 
+pip-tools include pip-compile + pip-sync
+https://pypi.org/project/pip-tools/
+
 packages management tool comparision
 https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1
 
